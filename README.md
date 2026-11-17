@@ -8,6 +8,8 @@
 
 **[최신 버전 내려받기 (toolTip-win-x64.zip)](https://github.com/astheboy/toolTip-releases/releases/latest/download/toolTip-win-x64.zip)**
 
+📖 **[스크린샷으로 보는 소개 가이드](https://claude.ai/artifact/5mKWakNrhuHhDqHEf41Sis)**
+
 
 ## 설치
 
